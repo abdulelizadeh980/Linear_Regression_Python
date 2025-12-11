@@ -1,7 +1,7 @@
 # 🦠 Covid-19: 7-Day Forecast Using Linear Regression  
 Predicting next 7-days 2019-nCoV cumulative **Confirmed**, **Infected**, **Recovered**, and **Death** cases using a Linear Regression model.
 
-![Linear Regression Visual](images/Linear_Regression_Visual.png)
+![Missing Values Heatmap](Linear_Regression_Visual.png)
 
 ---
 
