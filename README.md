@@ -9,8 +9,12 @@ Predicting next 7-days 2019-nCoV cumulative **Confirmed**, **Infected**, **Recov
 This project analyzes the **Novel Coronavirus 2019 (Covid-19)** dataset and uses a **Linear Regression Model** to forecast the next **7 days** of cumulative case counts.  
 The goal is to develop an analytical understanding of the outbreak pattern and evaluate whether healthcare systems are prepared for possible scenarios.
 
-![Missing Values Heatmap](Linear_Regression_Visual.png)
----
+![Missing Values Heatmap](Visual1.png)
+-------------------------------------------------
+![Missing Values Heatmap](Visual2.png)
+-------------------------------------------------
+![Missing Values Heatmap](Visual3.png)
+-------------------------------------------------
 
 ## 📚 Category  
 **Linear Regression (Supervised Machine Learning)**
